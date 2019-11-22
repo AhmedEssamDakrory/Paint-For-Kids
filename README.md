@@ -1,2 +1,2 @@
 # Paint-For-Kids
-simple application for kids to draw simple shapes then they can play by colouring these shapes
+Simple Application for kids to draw simple shapes, then they can play by colouring these shapes
